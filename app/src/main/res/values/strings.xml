@@ -1,0 +1,4 @@
+<resources>
+    <string name="textView">Roll the Dice<b></b></string>
+    <string name="app_name">Your Turn</string>
+</resources>
